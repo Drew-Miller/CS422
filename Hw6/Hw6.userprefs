@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{ACDA75B3-2589-4FE6-B635-1EF21AC23FFC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hw6/ConcatStream.cs">
+    <Files>
+      <File FileName="Hw6/Program.cs" Line="2" Column="1" />
+      <File FileName="Hw6/WebServer.cs" Line="270" Column="5" />
+      <File FileName="Hw6/ConcatStream.cs" Line="28" Column="5" />
+      <File FileName="Hw6/WebRequest.cs" Line="62" Column="8" />
+      <File FileName="Hw6/DemoService.cs" Line="46" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hw6 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

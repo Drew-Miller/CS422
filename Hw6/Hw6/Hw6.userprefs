@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{ACDA75B3-2589-4FE6-B635-1EF21AC23FFC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebServer.cs">
+    <Files>
+      <File FileName="WebServer.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hw6 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hw9", "Hw9\Hw9.csproj", "{6250B752-5692-458D-9E40-27E3BBC8D66A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6250B752-5692-458D-9E40-27E3BBC8D66A}.Debug|x86.ActiveCfg = Debug|x86
+		{6250B752-5692-458D-9E40-27E3BBC8D66A}.Debug|x86.Build.0 = Debug|x86
+		{6250B752-5692-458D-9E40-27E3BBC8D66A}.Release|x86.ActiveCfg = Release|x86
+		{6250B752-5692-458D-9E40-27E3BBC8D66A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

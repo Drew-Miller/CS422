@@ -1,0 +1,5 @@
+/Users/drewm/Documents/School Work/CS/422/Hw7/Hw7/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/drewm/Documents/School Work/CS/422/Hw7/Hw7/bin/Debug/Hw7.exe.mdb
+/Users/drewm/Documents/School Work/CS/422/Hw7/Hw7/bin/Debug/Hw7.exe
+/Users/drewm/Documents/School Work/CS/422/Hw7/Hw7/obj/x86/Debug/Hw7.exe
+/Users/drewm/Documents/School Work/CS/422/Hw7/Hw7/obj/x86/Debug/Hw7.exe.mdb

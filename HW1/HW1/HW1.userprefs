@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="HW1/HW1.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HW1/Program.cs">
+    <Files>
+      <File FileName="HW1/Program.cs" Line="10" Column="24" />
+      <File FileName="HW1_DLL/HW1.cs" Line="178" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HW1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

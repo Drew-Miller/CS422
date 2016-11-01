@@ -1,0 +1,7 @@
+/Users/drewm/Documents/School Work/CS/422/HW1/HW1/HW1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/drewm/Documents/School Work/CS/422/HW1/HW1/HW1/bin/Debug/HW1.exe.mdb
+/Users/drewm/Documents/School Work/CS/422/HW1/HW1/HW1/bin/Debug/HW1.exe
+/Users/drewm/Documents/School Work/CS/422/HW1/HW1/HW1/obj/x86/Debug/HW1.exe
+/Users/drewm/Documents/School Work/CS/422/HW1/HW1/HW1/obj/x86/Debug/HW1.exe.mdb
+/Users/drewm/Documents/School Work/CS/422/HW1/HW1/HW1/bin/Debug/HW1_DLL.dll
+/Users/drewm/Documents/School Work/CS/422/HW1/HW1/HW1/bin/Debug/HW1_DLL.dll.mdb

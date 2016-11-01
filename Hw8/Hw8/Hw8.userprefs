@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0A4BCC06-8683-4610-8D0B-8CF938FFD2DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FileSystemDefs.cs">
+    <Files>
+      <File FileName="FileSystemDefs.cs" Line="662" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Hw8" expanded="True">
+            <Node name="Hw8" expanded="True">
+              <Node name="CS422" expanded="True">
+                <Node name="tests" expanded="True">
+                  <Node name="MReadWriteFile" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Hw8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

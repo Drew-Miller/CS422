@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{441609B2-4BAD-4359-8EA3-3A147397C497}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hw5/NUnitTests.cs">
+    <Files>
+      <File FileName="Hw5/Program.cs" Line="21" Column="4" />
+      <File FileName="Hw5/WebServer.cs" Line="1" Column="1" />
+      <File FileName="Hw5/ConcatStream.cs" Line="32" Column="43" />
+      <File FileName="Hw5/NoSeekMemoryStream.cs" Line="30" Column="35" />
+      <File FileName="Hw5/NUnitTests.cs" Line="30" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hw5" expanded="True">
+            <Node name="Hw5" expanded="True">
+              <Node name="NUnitTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Hw5" expanded="True">
+            <Node name="Hw5" expanded="True">
+              <Node name="CS422" expanded="True">
+                <Node name="NUnitTests" expanded="True">
+                  <Node name="seekBegin" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/drewm/Documents/School Work/CS/422/Hw5/Hw5/NUnitTests.cs" line="166" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hw5 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

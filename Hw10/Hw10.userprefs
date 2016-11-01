@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A9A26B4E-09C2-47E0-8697-774B07BC9C0A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hw10/BigNum.cs">
+    <Files>
+      <File FileName="Hw10/Program.cs" Line="3" Column="16" />
+      <File FileName="Hw10/BigNum.cs" Line="2" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Hw10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

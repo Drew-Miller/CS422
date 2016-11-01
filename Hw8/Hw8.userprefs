@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{0A4BCC06-8683-4610-8D0B-8CF938FFD2DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hw8/Program.cs">
+    <Files>
+      <File FileName="Hw8/Program.cs" Line="12" Column="4" />
+      <File FileName="Hw8/FileSystemDefs.cs" Line="169" Column="6" />
+      <File FileName="Hw8/tests.cs" Line="51" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Hw8" expanded="True">
+            <Node name="Hw8" expanded="True">
+              <Node name="CS422" expanded="True">
+                <Node name="tests" expanded="True">
+                  <Node name="getDir" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Hw8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/drewm/Documents/School Work/CS/422/Hw8/Hw8/FileSystemDefs.cs" line="170" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
