@@ -9,6 +9,11 @@ namespace CS422
 
 		public BigNum(string number)
 		{
+			if(!validateString(number))
+			{
+				throw new System.ArgumentException(number + ": Not a valid BigNum string");
+			}
+
 			_number = number;
 		}
 
@@ -21,6 +26,22 @@ namespace CS422
 			if(number[0] != '-' && number[0] != '.' && !Char.IsNumber(number[0]))
 				return false;
 
+			if (number[0] == '.')
+			{   
+				if(number.Length <= 1)
+					return false;
+				if (number.Substring(1).Contains("."))
+					return false;
+			}
+
+			if (number[0] == '-')
+			{
+				if (number.Length <= 1)
+					return false;
+				if (number.Substring(1).Contains("-"))
+					return false;
+			}
+			
 			//check whitespaces
 			if(number.Contains(" "))
 				return false;
@@ -30,7 +51,10 @@ namespace CS422
 				return false;
 
 			//check whitespaces
-			if (number.Contains())
+			if (number.Contains("\r"))
+				return false;
+
+			if (number.Contains("\v"))
 				return false;
 
 

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Hw10
+namespace CS422
 {
 	class MainClass
 	{
